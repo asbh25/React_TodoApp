@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![todoapp](./description/todoapp.gif)
+![todoedit](./description/edittodo.gif)
 
 ## Available Scripts
 
