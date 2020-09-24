@@ -1,4 +1,8 @@
+# React ToDo App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![todoapp](./description/todoapp.gif)
 
 ## Available Scripts
 
